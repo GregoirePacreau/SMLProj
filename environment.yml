@@ -1,0 +1,7 @@
+name: SML-Project
+dependencies:
+  - python
+  - pip:
+    - pandas
+    - sklearn
+    - nltk
